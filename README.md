@@ -29,7 +29,7 @@
 - [Deployment](#-deployment)
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
+
 
 ---
 
